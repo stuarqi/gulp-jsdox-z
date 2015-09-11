@@ -34,3 +34,7 @@ gulp.task('doc', function () {
 
 	Template files directory, reference the 'templates' directory
 
+## Todo
+
+* Optimization templates
+
