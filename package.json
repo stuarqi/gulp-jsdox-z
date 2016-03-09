@@ -1,6 +1,6 @@
 {
   "name": "gulp-jsdox-z",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gulp plugin for the JSDox markdown generator for JSDoc",
   "main": "index.js",
   "scripts": {
