@@ -1,7 +1,7 @@
 var jsdox = require('jsdox'),
     through = require('through2'),
     path = require('path'),
-    jsdocParser = require('./node_modules/jsdox/node_modules/jsdoc3-parser'),
+    jsdocParser = require('jsdoc3-parser'),
     fs = require('fs'),
 
     analyze = jsdox.analyze,

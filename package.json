@@ -24,6 +24,7 @@
   "homepage": "https://github.com/stuarqi/gulp-jsdox-z#readme",
   "dependencies": {
     "gulp-util": "^3.0.6",
+    "jsdoc3-parser": "^1.1.0",
     "jsdox": "^0.4.9",
     "through2": "^2.0.0"
   },
